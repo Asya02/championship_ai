@@ -28,5 +28,5 @@
  - *CatBoostRegressor*
  - *LGBMRegressor*
  - *xgboost*
- = *Normalizer*
+ - *Normalizer*
  - *hstack*
